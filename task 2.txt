@@ -1,0 +1,64 @@
+Task 2
+
+1. why do you like to join as a software developer?
+
+   personally i enjoy the challenge for solving complex problems and finding  innovative solutions to them.
+   As a software developer it gives more oppurtunities to interact with colleagues of different departments,regarding project which gives a chance to learn
+   more from others.
+   As a part of a team i can share my knowledge and ideas and expand the understanding of good development practises and there by developing innovative 
+   ideas for future projects.
+   I have always been fascinated by how computers work and how they can be used to solve complex problems.
+   I am also excited by the potential to use softwares to make a positive and usefull and easy solutions to the world.
+   
+
+2. List top 3 softwares/tools that inspire you.why do these tools inspire you?
+ 
+   a. Linux-  it has inspired the open-source software movement and inspiration for various other open-source projects.
+      Linux has been around since the mid-1990s with the short span of time Linux is actually everywhere, as a inspiration for various opens source projects.
+      Linux is an operating system, Without it the software wouldn’t function. Linux has evolved into one of the most reliable computer ecosystems on the planet. 
+    
+
+   b. Git-Git is not a programming language, but it's become incredibly important for computer programmers working in almost any language.
+          Git, the distributed version control system, is primarily written in the C programming language.
+          Most GitHub features work regardless of which languages your code is written in. 
+
+
+    c. Android Operating System - Its widespread adoption on smartphones and tablets has made it a dominant force in the mobile ecosystem, providing opportunities
+                                   for developers to create diverse and innovative applications.
+                                   Android's open-source nature encourages innovative developers can experiment with new features, improvements, and customizations, 
+                                   leading to the creation of innovative applications and solutions.
+                                   Android runs on a wide range of devices with diverse hardware specifications. This diversity has inspired innovation by challenging
+                                   developers to create applications that can adapt to various screen sizes, resolutions, and hardware capabilities. 
+
+
+3. List top 3 organizations you like to join in your career and why you like these organisations.
+
+   a. TATA Consultancy Services-TCS is one of the largest IT services and consulting companies globally. It offers a wide range of services, including software development, 
+                                consulting, business process outsourcing, infrastructure services, and more.
+                                TCS operates in numerous countries and has a strong global presence. It serves clients in various industries, including finance, healthcare, 
+                                telecommunications, retail, manufacturing, and more.
+                                
+
+  b. Infosys Pvt Ltd -  it is an Indian multinational corporation that provides information technology (IT) consulting, software development, and outsourcing services.
+                        
+  
+  c. Wipro - Wipro offers a diverse range of services, including IT consulting, application development and maintenance, infrastructure services, business process outsourcing, and digital transformation. 
+  
+
+  For me i consider as a great oppurtunity to be the part of these organisations.which will give more learning oppurtuinities and innovative carreer for future.
+
+
+
+4. How you position yourself in this industry after 2 years.
+   
+      As a fresher, After 2 years I see myself as a valuable member of the team who has made significant contributions to the company’s success. I hope to have developed strong skills and to have opportunities for advancement and career growth.
+
+5. List 3 projects/products you have built or have planned to build in the upcomming year,also explain your role in the same.
+
+    1.online job and on demand services- project done during the final year MCA 
+
+    2. Orgreenic cart- project for selling organic products directly from the farmers and selling to customers on their demand.
+
+    3.project that helps to store all medical reports from all individuals and predicting the physical condition using machine learning and artificial intelligence
+
+ 
